@@ -1,0 +1,5 @@
+.DS_Store
+.qa/
+build_html.mjs
+check_render.mjs
+node_modules/
